@@ -1,10 +1,8 @@
 _repo: The-Innocents-Abroad---Volume-06_5693
-_version: 0.1.0
+_version: 0.2.0
 covers:
 - cover_type: archival
-  image_path: 5693/5693-h/images/cover.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+  image_path: 5693-h/images/cover.jpg
 creator:
   author:
     agent_name: Twain, Mark
@@ -17,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/53
     wikipedia: http://en.wikipedia.org/wiki/Mark_Twain
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5693#The-Innocents-Abroad---Volume-06
 gutenberg_issued: '2004-06-22'
 gutenberg_type: Text
 identifiers:
